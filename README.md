@@ -1,8 +1,9 @@
-# Profile Application -- Hours taken for completion = < 8
+# Profile Application 
+- Hours taken for completion = < 8
 
 A mobile application that appears to have the functionality of a profile page.
 
-- During development I ran this on windows and android using expo .
+- During development, I ran this on both Windows and Android while using Expo.
 
 - Capabilities: upload and edit name, number, email, and bio.
   note: User is also able to select a photo to update their page with.
@@ -16,14 +17,14 @@ Before running the project, make sure you have Node.js and npm installed.
 1. Clone the repository:
    git clone https://github.com/Jaketa-CS/ProfileApp.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory.
 cd profile-app-jteeter
 
 3.Install dependencies:
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/) (Expo!)
+- (https://nodejs.org/) (Node.js)
+- (https://www.npmjs.com/) (npm - Node Package Manager)
+- (https://docs.expo.dev/get-started/installation/) (Expo!)
 - npm install
 
 ### Running the application
