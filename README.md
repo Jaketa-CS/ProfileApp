@@ -19,7 +19,7 @@ Before running the project, make sure you have Node.js and npm installed.
    git clone https://github.com/Jaketa-CS/ProfileApp.git
 
 2. Navigate to the project directory.
-cd profile-app-jteeter
+cd ProfileApp-master
 
 3.Install dependencies:
 
